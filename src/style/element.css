@@ -1,0 +1,72 @@
+.el-select .el-input.is-focus .el-input__inner{
+	border-color: #f69225;
+}
+.el-menu{
+    width: 250px;
+    position: fixed;
+    top: 86px;
+    bottom: 0;
+    padding: 20px 10px 0 20px;
+    background: #f5ddb7 !important;
+    
+}
+.el-menu li{
+    border-bottom: #ecc990 solid 1px;
+    padding-left: 0 !important;
+}
+.el-submenu__title{
+    background: #f5ddb7 !important;
+}
+.el-menu-item{
+    background: #f5ddb7 !important;
+}
+.el-menu-item.is-active{
+    color: #f69225 !important;
+}
+.el-input{
+    width: 90%;
+}
+.el-input__inner:hover{
+    border-color: #f69225;
+}
+.el-input.is-active .el-input__inner, .el-input__inner:focus{
+    border-color: #f69225;
+}
+.el-select-dropdown__item.selected{
+    color: #f69225;
+}
+.el-button--primary{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button--primary.is-active{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button--primary:active{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button--primary:focus{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button--primary:hover{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button:active{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button:focus{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-button:hover{
+    background: #f69225;
+    border-color: #f69225;
+}
+.el-table__body{
+    width: auto !important;
+}
